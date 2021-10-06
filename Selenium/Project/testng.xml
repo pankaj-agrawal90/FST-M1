@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+    <test name="testngTest">
+        <classes>
+            <class name="seleniumProject_JobBoard.Activity1" />
+            <class name="seleniumProject_JobBoard.Activity2" />
+            <class name="seleniumProject_JobBoard.Activity3" />
+            <class name="seleniumProject_JobBoard.Activity4" />
+            <class name="seleniumProject_JobBoard.Activity5" />
+            <class name="seleniumProject_JobBoard.Activity6" />
+            <class name="seleniumProject_JobBoard.Activity7" />
+            <class name="seleniumProject_JobBoard.Activity8" />
+            <class name="seleniumProject_JobBoard.Activity9" />
+        </classes>
+    </test>
+</suite>
